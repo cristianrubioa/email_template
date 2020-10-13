@@ -28,6 +28,14 @@ p {
   text-align: justify;
 }
 
+img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  alt: "Click for the larger version.";
+}
+
 #main {
   border: 1px solid #cfcece;
   background-color: #ffffff;
